@@ -1,0 +1,21 @@
+{
+    "compilerOptions": {
+        "module": "commonjs",
+        "target": "es2017",
+        "noImplicitAny": true,
+        "sourceMap": true,
+        "outDir": "build",
+        "allowJs": true,
+        // "compileOnSave": true,
+        // "strictNullChecks": true,
+        "noUnusedLocals": true,
+        // "skipLibCheck": true,
+        "noImplicitReturns": true,
+        "noFallthroughCasesInSwitch": true,
+        "pretty": true,
+        "alwaysStrict": true
+    },
+    "include": [
+        "ts"
+    ]
+}

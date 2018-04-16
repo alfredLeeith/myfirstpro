@@ -1,0 +1,18 @@
+{
+  "name": "micromall-srv",
+  "dependencies": {
+    "redis": "registry:npm/redis#2.6.0+20160901110043",
+    "request": "registry:npm/request#2.69.0+20160428223725",
+    "sequelize": "registry:npm/sequelize#4.0.0-1+20161101121248",
+    "validator": "registry:npm/validator#7.0.0+20170614153752",
+    "winston": "registry:dt/winston#2.3.0+20170323124512"
+  },
+  "devDependencies": {
+    "sinon": "registry:npm/sinon#1.16.0+20160723033700",
+    "superagent": "registry:dt/superagent#2.0.0+20161124104740",
+    "supertest": "registry:dt/supertest#1.1.0+20161122042843"
+  },
+  "globalDependencies": {
+    "moment": "registry:dt/moment#2.11.1+20161010105546"
+  }
+}
